@@ -1,7 +1,5 @@
 name: Assignment 1
 on:
-  push:
-    branches: [ "harish" ]
   pull_request:
     branches: [ "main" ]
 
